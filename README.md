@@ -24,3 +24,12 @@ int main(){
   cout<<"the value of x+y is "<<x+y<<endl;
   return 0;
 }
+#include <iostream>
+using namespace std;
+int main(){
+  // print hello
+//
+  cout<<"Hello, World!"<<endl;
+  cout<<"sawera jamshaid"<<endl;
+  return 0;
+}
